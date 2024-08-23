@@ -1,1 +1,1 @@
-Practiceing C programming 
+Practice C programming 
